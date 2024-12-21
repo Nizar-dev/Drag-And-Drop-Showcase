@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Drag And Drop POC</string>
+    <string name="source_url">https://picsum.photos/210/310</string>
+    <string name="target_url">https://picsum.photos/200/300</string>
+    <string name="title">Drag and Drop POC</string>
+    <string name="image">Image</string>
+    <string name="Composant">Composant</string>
+    <string name="main_screen_title">Drag and Drop from a grid to another.</string>
+    <string name="selected_choices">Selected Choices</string>
+    <string name="available_choices">Available Choices.</string>
+    <string name="drag_and_drop_here">Drag a choice box here !!</string>
+    <string name="choice_already_added">Choice already added</string>
+</resources>
